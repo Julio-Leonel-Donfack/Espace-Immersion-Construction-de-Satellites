@@ -16,6 +16,7 @@ Welcome to this repository dedicated to space exploration, immersive experiences
 
 - [Ariane 6 Launch Pad](https://www.youtube.com/watch?v=ZMILtWGywZA)
 - [Falcon Heavy - Elon Musk](https://www.youtube.com/watch?v=1u3BjJHpN8A)
+- [SpaceX Falcon Heavy – Elon Musk's Engineering Masterpiece](https://www.youtube.com/watch?v=sX1Y2JMK6g8)
 - [Micro-rockets and launch prototypes](https://www.youtube.com/watch?v=rlltFkSPC14)
 
 ---
